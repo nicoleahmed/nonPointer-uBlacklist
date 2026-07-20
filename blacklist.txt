@@ -41,7 +41,6 @@
 *://*.9idudu.com/*
 *://*.a5vpn.com/*
 *://*.a7la-home.com/*
-*://*.aalahty.cn/*
 *://*.actualidadiphone.com/*
 *://*.adoncn.com/*
 *://*.aesml.com/*
@@ -112,7 +111,6 @@
 *://*.csolmy.com/*
 *://*.cspfocus.cn/*
 *://*.cxybb.com/*
-*://*.cxywk.com/*
 *://*.da-quan.net/*
 *://*.dacongyun.com/*
 *://*.dadighost.com/*
@@ -247,7 +245,6 @@
 *://*.kknews.cc/*
 *://*.ksctec.com/*
 *://*.ksyzakq.com/*
-*://*.kunyuyuan.com/*
 *://*.kutu66.com/*
 *://*.lacomparacion.com/*
 *://*.lai18.com/*
