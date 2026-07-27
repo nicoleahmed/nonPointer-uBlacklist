@@ -33,7 +33,6 @@
 *://*.521cc.com/*
 *://*.52sbl.cn/*
 *://*.54site.com/*
-*://*.58hengqi.com/*
 *://*.61655.app/*
 *://*.8848hr.com/*
 *://*.91wuxi.com/*
@@ -340,7 +339,6 @@
 *://*.safetydetectives.com/*
 *://*.saintlad.com/*
 *://*.saoyu.com/*
-*://*.sdxinli.org/*
 *://*.sefyc.com/*
 *://*.shejiben.com/*
 *://*.shihuishuo.com/*
@@ -365,7 +363,6 @@
 *://*.soinside.com/*
 *://*.sportsoho.com/*
 *://*.squadguide.net/*
-*://*.sqzlsy.cn/*
 *://*.sshce.com/*
 *://*.statestpizza.com/*
 *://*.storagereview.com/*
@@ -776,7 +773,6 @@
 *://www.513210.com/*
 *://www.51dongshi.com/*
 *://www.52book.me/*
-*://www.54jqr.com/*
 *://www.5577.com/*
 *://www.55jf.com/*
 *://www.565k.com/*
@@ -971,7 +967,6 @@
 *://www.offers.com/*
 *://www.ojit.com/*
 *://www.ok168198.com/*
-*://www.oneho.cn/*
 *://www.orcode.com/*
 *://www.padh.net/*
 *://www.paloma.cn/*
@@ -981,7 +976,6 @@
 *://www.pconline.com.cn/3g/*
 *://www.pconline.com.cn/other_pic*
 *://www.pcpc.me/*
-*://www.phoenixups.com/*
 *://www.pianshen.com/*
 *://www.ping-jia.net/*
 *://www.pinlue.com/*
@@ -997,11 +991,9 @@
 *://www.qq366.cn/*
 *://www.qqtn.com/*
 *://www.qqxmail.com/*
-*://www.qtcamp.com/*
 *://www.quanmaimai.com/*
 *://www.quanmama.com/*
 *://www.qxqpw.net/*
-*://www.r41z.com/*
 *://www.rejoiceblog.com/*
 *://www.right.com.cn/FORUM/search.php?*
 *://www.ruan8.com/*
@@ -1118,7 +1110,6 @@
 *://www.zrahh.com/*
 *://www.zybashi.com/*
 *://www.zzchenhui.com/*
-*://x4x2.com/*
 *://xsyfs.com/*
 *://xuexi.zqnf.com/*
 *://xunii.com/*
