@@ -71,7 +71,6 @@
 *://*.bangjun168.com/*
 *://*.barber-klipp.com/*
 *://*.bbjkw.net/*
-*://*.bbsah.com/*
 *://*.beeeup.com/*
 *://*.bit86.cn/*
 *://*.bitwarsoft.com/*
@@ -492,7 +491,6 @@
 *://*.zhifure.com/*
 *://*.zhizhiguan.com/*
 *://*.zhuji.gd/*
-*://*.zjzmxny.com/*
 *://*.zmmoo.com/*
 *://*.znj.com/*
 *://*.znsjw.com/*
@@ -796,7 +794,6 @@
 *://www.ajpsp.com/*
 *://www.aliyun.com/*
 *://www.amcpp.com/*
-*://www.amhnn.com/*
 *://www.ancii.com/*
 *://www.anfensi.com/*
 *://www.anhuilife.com/*
@@ -813,7 +810,6 @@
 *://www.bifengo.com/*
 *://www.bitedie.com/*
 *://www.blockvalue.com/*
-*://www.bobofun.com/*
 *://www.bokcms.com/*
 *://www.bugzj.com/*
 *://www.bunian.cn/*
@@ -896,7 +892,6 @@
 *://www.hello.so/*
 *://www.helplib.cn/*
 *://www.hisour.com/*
-*://www.histrend.hk/*
 *://www.hotbak.net/*
 *://www.hq396.com/*
 *://www.hsjl5821808.com/*
@@ -1012,7 +1007,6 @@
 *://www.simpletense.com/*
 *://www.simpletense.org/*
 *://www.sldfc.cn/*
-*://www.smpchome.com/*
 *://www.sociablelabs.com/*
 *://www.sohu.com/a/*
 *://www.sojson.com/blog/*
@@ -1109,7 +1103,6 @@
 *://www.zou114.net/*
 *://www.zrahh.com/*
 *://www.zybashi.com/*
-*://www.zzchenhui.com/*
 *://xsyfs.com/*
 *://xuexi.zqnf.com/*
 *://xunii.com/*
