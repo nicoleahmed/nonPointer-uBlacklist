@@ -453,7 +453,6 @@
 *://*.wuzhuiso.com/s?q=*
 *://*.wxkcg.com/*
 *://*.xa8.net/*
-*://*.xagrtx.com/*
 *://*.xbuba.com/*
 *://*.xcx1024.com/*
 *://*.xiaoyuanjiu.com/*
@@ -469,7 +468,6 @@
 *://*.y8freegame.com/*
 *://*.yangmao.info/*
 *://*.yao51.com/*
-*://*.ydbaike.club/*
 *://*.yijiayi88.com/*
 *://*.yisu.com/*
 *://*.ymgjedu.com/*
@@ -1050,7 +1048,6 @@
 *://www.wywb0818.com/*
 *://www.x64pro.com/*
 *://www.xddv.com/*
-*://www.xhsdzjys.com/*
 *://www.xia3.com/*
 *://www.xiandai2012.com/*
 *://www.xiaoheidiannao.com/*
