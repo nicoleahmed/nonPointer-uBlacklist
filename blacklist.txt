@@ -839,8 +839,6 @@
 *://www.czgeek.com/*
 *://www.da-quan.net/*
 *://www.daihema.com/*
-*://www.dama123.com/*
-*://www.ddooo.com/*
 *://www.ddpei.com/*
 *://www.debug8.com/*
 *://www.diannaoxianka.com/*
@@ -1019,7 +1017,6 @@
 *://www.tmall.com/*
 *://www.tongfengqu.com/*
 *://www.tpyyes.com/*
-*://www.trust1688.com/*
 *://www.tspweb.com/*
 *://www.tuocheng.cc/*
 *://www.twblogs.net/*
