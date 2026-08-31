@@ -361,7 +361,6 @@
 *://*.sportsoho.com/*
 *://*.squadguide.net/*
 *://*.sshce.com/*
-*://*.statestpizza.com/*
 *://*.storagereview.com/*
 *://*.sufangxu.cn/*
 *://*.superweb999.com/*
@@ -556,7 +555,6 @@
 *://code-examples.net/*
 *://codingdict.com/*
 *://cont.jd.com/*
-*://contactnumbers.buzz/*
 *://copyfuture.com/*
 *://cx.17house.com/*
 *://daimajiaoliu.com/*
@@ -620,7 +618,6 @@
 *://list.jd.com/*
 *://list.suning.com/*
 *://liuxue.xdf.cn/*
-*://looknews.cc/*
 *://lqkweb.com/*
 *://m.201347.uk.com/*
 *://m.51dongshi.com/*
@@ -645,7 +642,6 @@
 *://m.pjtime.com/*
 *://m.qu99.com/*
 *://m.quanmama.com/*
-*://m.qzjlw.com.cn/*
 *://m.rufengso.net/*
 *://m.sina.com.hk/*
 *://m.sohu.com/*
@@ -737,7 +733,6 @@
 *://who-called-de.com/*
 *://windowsbulletin.com/*
 *://world.taobao.com/*
-*://wpsousuo.cn/*
 *://www.010xww.com/*
 *://www.0411ct.com/*
 *://www.0755qxhj.com/*
@@ -915,7 +910,6 @@
 *://www.kakatongmeng.net/*
 *://www.kutu66.com/*
 *://www.lagou.com/lgeduarticle/*
-*://www.lansingip.com/*
 *://www.lightspeedtrucking.com/*
 *://www.linuxboy.net/*
 *://www.linxia930.com/*
